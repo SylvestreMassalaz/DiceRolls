@@ -45,4 +45,4 @@ compileTestKotlin {
 
 test {
     useJUnit()
-}Ë
+}
